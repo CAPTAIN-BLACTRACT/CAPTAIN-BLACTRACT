@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CAPTAIN-BLACTRACT
-- 👀 I’m interested in coding , development , AI , ML , IOT's , tbc....
+- 👀 I’m interested in coding , development , AI , ML , Game Dev , tbc....
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on small level projects. 
 - 📫 How to reach me tele : @blactract
