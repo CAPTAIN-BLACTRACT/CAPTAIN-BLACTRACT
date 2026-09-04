@@ -111,9 +111,15 @@ If you're building real systems, experimenting with infrastructure, or working o
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=CAPTAIN-BLACTRACT&&show_icons=true&theme=radical"/>
+<img src="https://github-stats-extended.vercel.app/api?username=CAPTAIN-BLACTRACT&theme=radical"/>
 </a>
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=Some%20Numbers&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=kacho_ga)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&custom_title=Some%20Numbers&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&theme=kacho_ga)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=calm_pink)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=calm_pink)
 </p>
+
+
 
 -----
 Credits: CAPTAIN-BLACTRACT
